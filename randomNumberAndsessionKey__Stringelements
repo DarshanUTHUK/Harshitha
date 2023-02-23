@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "A5906BD87AF3D4AEFD8632ACB8EC7062",
+  "keywordClasses": [
+    {
+      "name": "randomNumberAndsessionKey.Stringelements",
+      "keywordMethods": [
+        {
+          "name": "getRandomNumberString",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateSessionKey",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
